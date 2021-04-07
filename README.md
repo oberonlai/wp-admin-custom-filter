@@ -48,7 +48,7 @@ $option = array(
     'name'     => 'send_status',     // form select name
     'key'      => 'meta_key',        // post meta field name
     'compare'  => '=',               // the compare rule
-    'posttype' => 'cptname',             // which post type support with
+    'posttype' => 'cptname',         // which post type support with
     'option'   => array(             // dropdown menu
         'all'       =>  __( 'ALL', ''),
         'option1'   =>  __( 'Option1', ''),
